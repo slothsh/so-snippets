@@ -1,13 +1,57 @@
 {
-    "title1": {
+    "title": {
         "prefix": "tit1",
-        "body": [
             "// Copyright (C) Stefan Olivier",
+        "body": [
             "// Written by Stefan Olivier",
             "// <https://stefanolivier.com>",
             "// ----------------------------",
             "// Description: ${0:TODO}"
         ],
         "description": "Title comments with description"
+    },
+
+    "dividersingle": {
+        "prefix": "div1",
+        "body": [
+            "///////////////////////////////////////////////////////////////////////////"
+        ],
+        "description": "single line divider"
+    },
+
+    "sectionheader": {
+        "prefix": "sect1",
+        "body": [
+            "///////////////////////////////////////////////////////////////////////////",
+            "//",
+            "//                    @${0:TODO} ${1:Unknown Section}"
+            "//",
+            "///////////////////////////////////////////////////////////////////////////"
+        ],
+        "description": "single line divider"
+    },
+
+    "endcomment": {
+        "prefix": "end1",
+        "body": [
+            "// @END OF ${0:TODO}"
+        ],
+        "description": "end section comment"
+    },
+
+    "todocommentsimple": {
+        "prefix": "todo",
+        "body": [
+            "// TODO:${0}"
+        ],
+        "description": "todo comment unparameterized"
+    },
+
+    "todocommentparam": {
+        "prefix": "todop",
+        "body": [
+            "// TODO(${0:all}):${1}"
+        ],
+        "description": "todo comment with parameters"
     }
 }
