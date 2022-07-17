@@ -3,7 +3,6 @@
         "prefix": "tit1",
         "body": [
             "// Copyright (C) Stefan Olivier",
-            "// Written by Stefan Olivier",
             "// <https://stefanolivier.com>",
             "// ----------------------------",
             "// Description: ${0:TODO}"
