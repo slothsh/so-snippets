@@ -42,7 +42,7 @@
     "todocommentsimple": {
         "prefix": "todo",
         "body": [
-            "// TODO:${0}"
+            "// TODO: ${0}"
         ],
         "description": "todo comment unparameterized"
     },
@@ -50,7 +50,7 @@
     "todocommentparam": {
         "prefix": "todop",
         "body": [
-            "// TODO(${0:all}):${1}"
+            "// TODO(${0:all}): ${1}"
         ],
         "description": "todo comment with parameters"
     }
