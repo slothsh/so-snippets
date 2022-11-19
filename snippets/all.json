@@ -1,0 +1,16 @@
+{
+    "title": {
+        "prefix": "mycopyright1",
+        "body": [
+            "Copyright (C) Stefan Olivier"
+        ],
+        "description": "Stefan Olivier Copyright"
+    },
+    "mywebsite": {
+        "prefix": "mysite1",
+        "body": [
+            "<https://stefanolivier.com>"
+        ],
+        "description": "Link to stefanolivier.com"
+    }
+}
