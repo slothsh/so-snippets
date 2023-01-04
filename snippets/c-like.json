@@ -60,9 +60,9 @@
             "// Copyright (C) Stefan Olivier",
             "// <https://stefanolivier.com>",
             "// ----------------------------",
-            "// ${0:LeetCode} : ${1:Training Problem}",
+            "// ${1:LeetCode} : ${2:Training Problem}",
             "/*",
-            "    ${2}",
+            "    ${0}",
             "*/"
         ],
         "description": "title for code training files"
