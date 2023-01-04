@@ -52,5 +52,20 @@
             "// TODO(${0:all}): ${1}"
         ],
         "description": "todo comment with parameters"
+    },
+
+    "codetraining": {
+        "prefix": "traintitle1",
+        "body": [
+            "// Copyright (C) Stefan Olivier",
+            "// <https://stefanolivier.com>",
+            "// ----------------------------",
+            "// ${0:LeetCode} : ${1:Training Problem}",
+            "// ${2}",
+            "/*",
+            "    ${3}",
+            "*/"
+        ],
+        "description": "title for code training files"
     }
 }
