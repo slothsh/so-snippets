@@ -61,9 +61,8 @@
             "// <https://stefanolivier.com>",
             "// ----------------------------",
             "// ${0:LeetCode} : ${1:Training Problem}",
-            "// ${2}",
             "/*",
-            "    ${3}",
+            "    ${2}",
             "*/"
         ],
         "description": "title for code training files"
